@@ -50,6 +50,7 @@
 	<a class="flex items-center rounded-xl text-lg font-semibold" href="{PUBLIC_ORIGIN}{base}/">
 		<Logo classNames="mr-1" />
 		{PUBLIC_APP_NAME}
+		SynthAI
 	</a>
 	<a
 		href={`${base}/`}
