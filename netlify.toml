@@ -1,8 +1,9 @@
-[build.environment]
-  NODE_VERSION = "20"
-  # don't need playwright for docs build
-  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD = "1"
 [build]
-  publish = "docs/.vitepress/dist"
-  command = "pnpm ci-docs"
-  ignore = "./scripts/docs-check.sh"
+command = “npm run build”
+publish = “/build”
+base =“/”
+
+[[redirects]]
+from = “/*”
+to = “/index.html”
+status = 200
