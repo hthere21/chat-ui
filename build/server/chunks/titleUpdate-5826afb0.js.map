@@ -1,0 +1,1 @@
+{"version":3,"file":"titleUpdate-5826afb0.js","sources":["../../../.svelte-kit/adapter-node/chunks/titleUpdate.js"],"sourcesContent":["import { w as writable } from \"./index2.js\";\nconst titleUpdate = writable(null);\nexport {\n  titleUpdate as t\n};\n"],"names":[],"mappings":";;AACK,MAAC,WAAW,GAAG,QAAQ,CAAC,IAAI;;;;"}

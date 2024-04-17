@@ -1,0 +1,1 @@
+import{r as o}from"../chunks/index.d7eb2526.js";const r=async({params:e})=>{throw o(302,"../conversation/"+e.id)},a=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{a as universal};
