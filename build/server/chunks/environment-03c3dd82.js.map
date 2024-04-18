@@ -1,1 +1,0 @@
-{"version":3,"file":"environment-03c3dd82.js","sources":["../../../.svelte-kit/adapter-node/chunks/environment.js"],"sourcesContent":["import { D as DEV, B as BROWSER } from \"./prod-ssr.js\";\nconst browser = BROWSER;\nconst dev = DEV;\nexport {\n  browser as b,\n  dev as d\n};\n"],"names":[],"mappings":";;AACK,MAAC,OAAO,GAAG,QAAQ;AACnB,MAAC,GAAG,GAAG;;;;"}
